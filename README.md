@@ -4,6 +4,7 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skpcsd)](https://github.com/Skpcsd/my_repository)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Skpcsd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 

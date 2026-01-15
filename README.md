@@ -1,6 +1,5 @@
 ## Hi there 👋
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Skpcsd&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Skpcsd&theme=tokyonight)](https://git.io/streak-stats)
 

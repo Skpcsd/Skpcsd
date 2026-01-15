@@ -1,12 +1,6 @@
 ## Hi there 👋
 
----
 
-[![Anurag's GitHub stats](https://myrepository-liart-ten.vercel.app?username=Skpcsd)](https://github.com/Skpcsd/my_repository)
-
-
-[![Anurag's GitHub stats](https://github-myrepository-liart-ten.vercel.app?username=Skpcsd)](https://github.com/Skpcsd/my_repository)
-
-[![Anurag's GitHub stats](https://github-myrepository-prlq7bndc-skpcsds-projects.vercel.app?username=Skpcsd)](https://github.com/Skpcsd/my_repository)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Skpcsd&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
